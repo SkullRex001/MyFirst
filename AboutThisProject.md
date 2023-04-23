@@ -1,15 +1,8 @@
-Hello, this is my first project and here I will try to transfer my knowledge of coding to all the learners out there.
+Greetings, this marks the inception of my inaugural project, where I aim to impart my expertise in coding to aspiring learners worldwide.
 
-Let's Start with the basics by writing your first program in C++. 
 
-#include <iostream>
-using namespace std;
-int main()
-{
-
-    cout << " HELLO World!";
-}
-
-![Screenshot (783)](https://user-images.githubusercontent.com/122201082/233837709-07556d39-936e-4656-9cb3-dfa9ed39c6b3.png)
+To commence, let us begin with the fundamentals by crafting your initial program in C++.
 
   
+![Screenshot (783)](https://user-images.githubusercontent.com/122201082/233837896-0e271c69-af86-4628-a9cd-03ae84fecc73.png)
+![Screenshot (784)](https://user-images.githubusercontent.com/122201082/233837898-97158e46-b28a-456d-bf1a-0c239b9711ed.png)
